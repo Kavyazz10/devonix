@@ -1,5 +1,80 @@
+# 🚀 Devonix
 
-The system automatically generates a structured website including layout, styling, and interactive components.
+### 🧠 Hierarchical Intent Interpretation for Autonomous Website Generation Using Agent-Oriented Language Models
+
+Devonix is an AI-driven framework designed to automatically generate functional websites from natural language prompts. The system integrates agent-oriented reasoning with large language models to interpret user intent, plan layouts, synthesize code, and validate generated outputs.
+
+This project demonstrates how decentralized AI agents can collaborate to automate web development workflows, significantly reducing development time and technical barriers for non-programmers.
+
+---
+
+# ✨ Key Features
+
+* 🗣️ Natural Language → Website Generation
+* 🤖 Multi-Agent Reasoning Architecture
+* 🧩 Intent Interpretation Engine
+* 🏗️ Automated Layout Planning
+* 💻 AI-Generated HTML, CSS, and JavaScript
+* 🔍 Integrated Quality Assurance Agent
+* ✅ Automated Code Validation
+* 🔁 Iterative Website Refinement
+* 🖥️ Interactive User Interface
+* ⚡ Scalable AI-Driven Development Pipeline
+
+---
+
+# 🏛️ System Architecture
+
+The Devonix framework follows a hierarchical agent-oriented architecture.
+
+👤 User Prompt  
+⬇️  
+🧠 Intent Understanding Agent  
+⬇️  
+📐 Layout Planning Agent  
+⬇️  
+💻 Code Generation Agent  
+⬇️  
+🔎 Validation Agent  
+⬇️  
+🛡️ Quality Assurance Agent  
+⬇️  
+🌐 Generated Website  
+
+Each agent performs a specialized task and collaborates through a coordinated workflow to produce deployable web applications.
+
+---
+
+# 🧰 Technology Stack
+
+🧠 AI Frameworks  
+LangChain
+
+⚡ Model Infrastructure  
+NVIDIA-accelerated LLM environment
+
+🖥️ Frontend  
+Streamlit
+
+🐍 Programming Language  
+Python
+
+🌐 Generated Output  
+HTML  
+CSS  
+JavaScript
+
+---
+
+# Example Prompt
+
+Example user input:
+
+```
+Create a modern portfolio website for a photographer with gallery, about section, and contact form.
+```
+
+The system automatically generates a structured website including layout, styling, and interactive components
 
 ---
 
