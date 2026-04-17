@@ -150,9 +150,9 @@ function RemotePreview({ projectName, refreshTrigger }) {
       {/* Sandpack Container (Using absolute inset to force full height) */}
       <div className="flex-1 relative">
         <SandpackProvider 
-          template="react"
-          theme="dark"
-          files={files}
+  template="react"
+  theme="dark"
+  files={files || { "/App.js": `export default function App() { return <div style={{color:'white',padding:20}}>Select a project to preview</div> }` }}
           options={{
             externalResources: ["https://cdn.tailwindcss.com"],
           }}
