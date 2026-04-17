@@ -110,7 +110,7 @@ MIT License allows reuse, modification, and distribution of the software while p
 
 ---
 
-# 👩‍💻 Author
+# 👩‍💻 Developers
 
 🎓 Final Year Research Project  
 Devonix – Autonomous AI Website Generation Framework
